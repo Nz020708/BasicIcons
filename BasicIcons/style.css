@@ -1,0 +1,35 @@
+.head {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.head >p1{
+    font-weight: 300;
+    margin-left: 40px;
+
+}
+.firstline{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.secondline{
+    margin-left: 32%;
+    margin-top: 10%;
+}
+i{
+    color: red;
+    font-size: 70px;
+  
+}
+.test{
+    margin-left: 38px;
+    text-align: center;
+}
+
+.test2{
+    margin-left: 38px;
+    text-align: center;
+}
